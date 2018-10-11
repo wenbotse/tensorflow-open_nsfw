@@ -7,6 +7,9 @@ The original caffe weights have been extracted using [Caffe to TensorFlow](https
 ## Prerequisites
 
 All code should be compatible with `Python 3.6` and `Tensorflow 1.x`. The model implementation can be found in `model.py`.
+pip install --upgrade enum34
+pip install unique
+pip install scikit-image
 
 ### Usage
 
